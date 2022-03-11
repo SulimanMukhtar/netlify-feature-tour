@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8717e787f314ff2870e8230da9c11eb3ec67813d",
+  "SCAN_LINK": "https://etherscan.io/token/0x8717e787f314ff2870e8230da9c11eb3ec67813d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Strokers Golf Club",
+  "SYMBOL": "SGC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 0,
+  "DISPLAY_COST": "0.0 ETH",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
